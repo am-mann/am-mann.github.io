@@ -34,13 +34,6 @@ Tutorials, grading, and support for upper-year statistics students.
 **MAT244: Introduction to Ordinary Differential Equations (Spring 2025) **  
 Office hours and assignment help for U of T undergrads.
 
-## Teaching Experience
-
-**MAT223: Linear Algebra I (Fall 2024) **  
-Tutorials, grading, and support for upper-year statistics students.
-
-**MAT244: Introduction to Ordinary Differential Equations (Spring 2025) **  
-Office hours and assignment help for U of T undergrads.
 
 ## Books I Really Love
 
