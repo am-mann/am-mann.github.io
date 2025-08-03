@@ -42,10 +42,11 @@ Tutorials, grading, and support for upper-year statistics students.
 **MAT244: Introduction to Ordinary Differential Equations (Spring 2025) **  
 Office hours and assignment help for U of T undergrads.
 
-## Books
+## Books I Really Love
 
-Please send me your recommendations. I recently converted a got a Goodreads account which I have been trying to keep updated on recent books I read. 
-
-**Favourite Books of the Year **  
 - 2025: Eden's Outcasts, Say Nothing, We Don't Know Ourselves, America, América,
-- 2024: 
+- 2024: Far From the Tree, Mountains beyond Mountains, 
+- 2023: Prairie Fires by Caroline Fraser
+- 2022: Empire of Pain by Patrick Radeen Keefe
+
+I recently  a got a Goodreads account which I have been trying to keep updated on recent books I read.
