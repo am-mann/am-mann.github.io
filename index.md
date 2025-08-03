@@ -26,7 +26,7 @@ Creating quality indicators from garbage code patterns, demographic completeness
 **Maternal Mortality Misclassification**  
 Measuring underreporting by mining patterns in cause-of-death chains.
 
-## Teaching Experience
+## Teaching
 
 **MAT223: Linear Algebra I (Fall 2024) **  
 Tutorials, grading, and support for upper-year statistics students.
