@@ -12,3 +12,20 @@ I am a Rhodes Scholar and a University of Toronto undergrad in mathematics and s
 - 📄 [CV](/files/cv.pdf)
 - 🧪 [Research](/research/)
 - ✍️ [Blog](/blog/)
+
+
+## Research Projects
+
+**U.S. Mortality Data Quality**  
+Creating quality indicators from garbage code patterns, demographic completeness, and overdose specificity.
+
+**Maternal Mortality Misclassification**  
+Measuring underreporting by mining patterns in cause-of-death chains.
+
+## Teaching Experience
+
+**MAT223: Linear Algebra I (Fall 2024) **  
+Tutorials, grading, and support for upper-year statistics students.
+
+**MAT244: Introduction to Ordinary Differential Equations (Spring 2025) **  
+Office hours and assignment help for U of T undergrads.
