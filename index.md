@@ -35,11 +35,14 @@ Tutorials, grading, and support for upper-year statistics students.
 Office hours and assignment help for U of T undergrads.
 
 
-## Books I Really Love
+## Misc
 
+** Books I really love ** 
 - 2025: Eden's Outcasts, Say Nothing, We Don't Know Ourselves, America, América,
 - 2024: Far From the Tree, Mountains beyond Mountains, 
 - 2023: Prairie Fires by Caroline Fraser
 - 2022: Empire of Pain by Patrick Radeen Keefe
 
 I recently  a got a Goodreads account which I have been trying to keep updated on recent books I read.
+
+** I grew up in Winnipeg, Manitoba. Favourite pictures of the Canadian Prairies.  ** 
