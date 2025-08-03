@@ -1,31 +1,67 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
+<html lang="en">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Merriweather', serif;
+        font-size: 1.1rem;
+        line-height: 1.7;
+        max-width: 700px;
+        margin: 3rem auto;
+        padding: 0 1rem;
+        background-color: white;
+        color: #111;
+      }
+
+      nav {
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+
+      nav a {
+        color: #004c99;
+        text-decoration: none;
+        margin: 0 12px;
+        font-weight: 500;
+      }
+
+      nav a:hover {
+        text-decoration: underline;
+      }
+
+      h1, h2, h3 {
+        font-weight: 600;
+        margin-top: 2rem;
+      }
+
+      footer {
+        text-align: center;
+        margin-top: 4rem;
+        font-size: 0.9rem;
+        color: #999;
+      }
+    </style>
+  </head>
   <body>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    <nav>
+      {% for item in site.data.navigation %}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
 
-    {{ content }}
+    <main>
+      {{ content }}
+    </main>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
+    <footer>
+      &copy; {{ site.title }} {{ site.time | date: "%Y" }}
+    </footer>
 
   </body>
 </html>
