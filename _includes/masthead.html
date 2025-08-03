@@ -1,7 +1,7 @@
-{% include base_path %}
-
-<nav>
+<nav style="text-align: center; margin-bottom: 2rem;">
   {% for item in site.data.navigation %}
-    <a href="{{ item.url | relative_url }}">{{ item.title }}</a> &nbsp;&nbsp;
+    <a href="{{ item.url | relative_url }}" style="margin: 0 10px;">
+      {{ item.title }}
+    </a>
   {% endfor %}
 </nav>
