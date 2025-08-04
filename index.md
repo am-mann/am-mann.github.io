@@ -58,6 +58,6 @@ Office hours and assignment help for U of T undergrads.
 - 2024: Far From the Tree, Mountains beyond Mountains, Amusing Ourselves to Death, The Future is History, The Gnostic Gospels
 - 2023: Prairie Fires by Caroline Fraser, Empire of Pain by Patrick Radeen Keefe
 
-I recently  a got a Goodreads account which I have been trying to keep updated on recent books I read. If you ask me for a book recommendation, I will recommend Far From The Tree by Andrew Soloman.
+I enjoy reviewing books and I recently got a Goodreads account If you ask me for a book recommendation, I will recommend Far From The Tree by Andrew Soloman.
 
 I grew up in Winnipeg, Manitoba. Favourite pictures of the Canadian Prairies.
