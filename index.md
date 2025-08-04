@@ -4,13 +4,30 @@ title: "Amy Mann"
 permalink: /
 ---
 
-<img src="assets/img/profile.jpeg" alt="Profile Photo" width="200" style="border-radius: 50%;"> 
-
-<main>
-  <h1 style="text-align: center; font-size: 2.2rem; margin-bottom: 1.5rem;">Amy Mann</h1>
-</main>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amy Mann</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <img src="assets/profile.jpeg" alt="Amy Mann" class="profile" />
+    <h1>Amy Mann</h1>
+    <p>
 I am a [Rhodes Scholar](https://www.utoronto.ca/news/changemakers-u-t-students-awarded-prestigious-rhodes-scholarships) and a University of Toronto undergrad in mathematics and statistcs. I am currently advised by Prof. Monica Alexander in department at Statistical Sciences where I work on US mortality data quality. I previously working in Prof. Jude Kong's AIIM Lab and I was a Laidlaw Scholar advised by Professor Kent Moore, Summer Undegraduate Research Fellow advised by Prof. Debra Wunch. In the summer 2022-2023 I was a Field's Institue Summer Undergraduate Research Fellow where I worked on random walks on threshold graphs for Profs. Ada Chen, Sooyeong Kim, Jane Breen, and students Giovanni Tedesco, Andrei Parfeni, and Alexander. I was the President of the University of Toronto Mathematics Union, representing over 4,000 students enrolled in a math course and I started a community garden at Victoria College in the Annex neighbourhood. I occassionally write for various outlets including the Varsity, Toronto Star, and CBC. I love reading.
+    </p>
+    <ul>
+      <li><a href="/cv.pdf">CV</a></li>
+      <li><a href="mailto:amy.mann@mail.utoronto.ca">Email</a></li>
+      <li><a href="https://github.com/am-mann">GitHub</a></li>
+    </ul>
+  </main>
+</body>
+</html>
+
 
 ## Recent Updates
  - I won a Rhodes Scholarship
