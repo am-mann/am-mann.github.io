@@ -56,7 +56,7 @@ Office hours and assignment help for U of T undergrads.
 **Books I really love** 
 - 2025: Eden's Outcasts, Say Nothing, We Don't Know Ourselves, America, América,
 - 2024: Far From the Tree, Mountains beyond Mountains, Amusing Ourselves to Death, The Future is History, The Gnostic Gospels
-- 2023: Prairie Fires by Caroline Fraser, Empire of Pain by Patrick Radeen Keefe
+- 2023: Prairie Fires, Empire of Pain
 
 I enjoy reviewing books and I recently got a Goodreads account. If you ask me for a book recommendation, I will recommend Far From The Tree by Andrew Soloman.
 
