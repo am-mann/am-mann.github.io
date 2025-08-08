@@ -218,16 +218,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -261,21 +257,9 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      layout: project
   # _talks
   - scope:
       path: ""
