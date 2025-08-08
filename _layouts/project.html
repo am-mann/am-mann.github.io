@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<article class="project">
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+    <p class="meta">
+      {% if page.authors %}<strong>Authors:</strong> {{ page.authors }} · {% endif %}
+      {% if page.venue %}<strong>Venue:</strong> {{ page.venue }} · {% endif %}
+      {% if page.year %}<strong>Year:</strong> {{ page.year }}{% endif %}
+    </p>
+
+    <p class="links">
+      {% if page.paper_url %}<a href="{{ page.paper_url }}">Paper</a>{% endif %}
+      {% if page.code_url %} · <a href="{{ page.code_url }}">Code</a>{% endif %}
+      {% if page.data_url %} · <a href="{{ page.data_url }}">Data</a>{% endif %}
+      {% if page.poster_url %} · <a href="{{ page.poster_url }}">Poster</a>{% endif %}
+      {% if page.slides_url %} · <a href="{{ page.slides_url }}">Slides</a>{% endif %}
+    </p>
+
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.title }}" style="max-width:100%; margin: 1rem 0;">
+    {% endif %}
+  </header>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+  {% if page.tags %}
+  <footer>
+    <p><strong>Tags:</strong>
+      {% for t in page.tags %}
+        <span class="tag">{{ t }}</span>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+  </footer>
+  {% endif %}
+</article>
+
+<style>
+  .project .subtitle { color:#666; margin-top:-0.5rem; }
+  .project .meta { color:#666; }
+  .project .links a { text-decoration: none; }
+  .tag { background:#f2f2f2; padding:0.15rem 0.4rem; border-radius:0.3rem; }
+</style>
