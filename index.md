@@ -36,11 +36,47 @@ I am a [Rhodes Scholar](https://www.utoronto.ca/news/changemakers-u-t-students-a
    
 ## Research Projects
 
-**U.S. Mortality Data Quality**  
-Creating quality indicators from garbage code patterns, demographic completeness, and overdose specificity.
+<h1>Projects</h1>
+<div class="projects-grid">
+  {% assign items = site.projects | sort: 'year' | reverse %}
+  {% for p in items %}
+    <a class="project-card" href="{{ p.url | relative_url }}">
+      {% if p.image %}
+        <img src="{{ p.image | relative_url }}" alt="{{ p.title }}">
+      {% endif %}
+      <div class="text">
+        <h2>{{ p.title }}</h2>
+        {% if p.subtitle %}<p class="subtitle">{{ p.subtitle }}</p>{% endif %}
+        <p class="meta">
+          {% if p.venue %}{{ p.venue }} · {% endif %}{% if p.year %}{{ p.year }}{% endif %}
+        </p>
+        {% if p.tags %}
+          <p class="tags">
+            {% for t in p.tags %}<span class="tag">{{ t }}</span>{% endfor %}
+          </p>
+        {% endif %}
+      </div>
+    </a>
+  {% endfor %}
+</div>
 
-**Maternal Mortality Misclassification**  
-Measuring underreporting by mining patterns in cause-of-death chains.
+<style>
+.projects-grid {
+  display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px; margin-top: 1rem;
+}
+.project-card {
+  display:block; border:1px solid #e5e5e5; border-radius:8px; overflow:hidden;
+  text-decoration:none; color:inherit; background:#fff;
+  transition: transform .06s ease, box-shadow .06s ease;
+}
+.project-card:hover { transform: translateY(-2px); box-shadow:0 4px 14px rgba(0,0,0,.08); }
+.project-card img { width:100%; height:160px; object-fit:cover; }
+.project-card .text { padding:12px; }
+.project-card .subtitle { color:#666; margin:.25rem 0 .5rem; }
+.project-card .meta { color:#666; font-size:.9rem; }
+.tags .tag { background:#f2f2f2; padding:0.15rem 0.4rem; border-radius:0.3rem; margin-right:6px; }
+</style>
 
 ## Teaching
 
