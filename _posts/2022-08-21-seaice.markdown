@@ -2,7 +2,7 @@
 layout: post
 title:  "The trajectory of sea ice in the Last Ice Area"
 date:   2022-06-22 21:21:53 +00:00
-image: /images/ice-movement.png
+image: /images/sea-ice.gif
 categories: research
 author: "Amy Mann"
 authors: "<strong>Amy Mann</strong>, Kent Moore"
