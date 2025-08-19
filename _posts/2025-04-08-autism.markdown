@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Identifying Autism for Brain Connectivity Patterns"
+date:   2025-04-08 22:21:59 +00:00
+image: /images/autism.png
+categories: UofT
+author: "Amy Mann"
+authors: "Seemal Sipra*, <strong>Amy Mann</strong>*"
+course: "STA437: Methods for Multivariate Data
+paper: /pdfs/sta437-autism.pdf
+---
+We examined brain connectivity patterns in 47 individuals with autism. The dataset contains brain activity recordings from 47 individuals who participated in a study at Yale University. The data come from functional MRI (fMRI) scans, which measure brain activity over time. Each subject has a matrix (196 × 110) representing their brain activity.
+
+How can we detect patterns of brain connectivity from these fMRI recordings? Can we identify distinct functional networks in the brain using this data? Comparing Groups (Autism vs. Control): Do brain connectivity patterns differ between individuals with Autism and the Control group? Are there specific brain regions that show different activity between groups? Exploring Demographic Factors: Does age influence brain connectivity patterns? Are there any differences in connectivity between males and females? Finding Unique Relationships: Are there connectivity patterns that are specific to individuals with Autism but not present in the Control group? Can we use this data to predict diagnosis based on brain activity alone?
