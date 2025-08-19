@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The trajectory of sea ice in the Last Ice Area"
+date:   2022-06-22 21:21:53 +00:00
+image: /images/ice-movement.png
+categories: research
+author: "Amy Mann"
+authors: "<strong>Amy Mann</strong>, Kent Moore"
+poster: /pdfs/sea-ice-poster.pdf
+code: https://github.com/am-mann/sea-ice
+---
+I wrote code to calculate back trajectories and forward trajectories of sea ice in the Last Ice Area using satellite velocity data with a particular interest in understanding the cause of the anomolous sea ice reversal in February 2018. I received funding from the Laidlaw Research Fellowship. In process of turning into paper. 
