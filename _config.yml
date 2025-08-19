@@ -9,7 +9,7 @@ name: Amy Mann
 # description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/profile.jped
+avatar: images/profile.jpeg
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: am-mann
-  instagram: 
+  instagram: https://www.linkedin.com/in/amy-mann-08a590216/
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
