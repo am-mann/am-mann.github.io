@@ -6,6 +6,7 @@ image: /images/autism.png
 categories: UofT
 course: "STA437: Methods for Multivariate Data"
 author: "Amy Mann"
+code: https://github.com/am-mann/brain-connectivity
 authors: "<strong>Amy Mann</strong>, Seemal Sipra"
 paper: /pdfs/sta437-autism.pdf
 ---
