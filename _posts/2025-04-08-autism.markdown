@@ -4,9 +4,9 @@ title:  "Identifying Autism for Brain Connectivity Patterns"
 date:   2025-04-08 22:21:59 +00:00
 image: /images/autism.png
 categories: UofT
+course: "STA437: Methods for Multivariate Data
 author: "Amy Mann"
 authors: "Seemal Sipra*, <strong>Amy Mann</strong>*"
-course: "STA437: Methods for Multivariate Data
 paper: /pdfs/sta437-autism.pdf
 ---
 We examined brain connectivity patterns in 47 individuals with autism. The dataset contains brain activity recordings from 47 individuals who participated in a study at Yale University. The data come from functional MRI (fMRI) scans, which measure brain activity over time. Each subject has a matrix (196 × 110) representing their brain activity.
