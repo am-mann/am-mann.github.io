@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Calibrated and deployed low-cost air quality sensors in the GTA"
-date:   2021-06-22 21:21:53 +00:00
+date:   2022-06-22 21:21:53 +00:00
 image: /images/intro.jpg
 categories: research
 author: "Amy Mann"

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Calibrated and deployed low-cost air quality sensors in the GTA"
-date:   2022-09-01 21:21:53 +00:00
+title:  "A Modified Gaussian Plume Model for Mobile in situ Greenhouse Gas Measurements"
+date:   2022-06-01 21:21:53 +00:00
 image: /images/emissions.png
 categories: research
 author: "Amy Mann"
+venue: "Atmospheric Measurement Techniques"
 authors: "Lawson D. Gillespie, Sébastien Ars, James P. Williams, Louise Klotz, Tianjie Feng, Stephanie Gu,Mishaal Kandapath, <strong>Amy Mann</strong>, Michael Raczkowski, Mary Kang, Felix Vogel, and Debra Wunch"
 preprint: https://amt.copernicus.org/preprints/amt-2023-193/amt-2023-193.pdf
 ---
