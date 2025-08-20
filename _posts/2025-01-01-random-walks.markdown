@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Threshold graphs, Kemeny's constant, and related random walk parameters"
-date:   2022-07-21 22:21:59 +00:00
+date:   2025-01-01 22:21:59 +00:00
 image: /images/pineapple-graph.png
 categories: research
 author: "Amy Mann"

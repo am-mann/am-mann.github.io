@@ -2,7 +2,7 @@
 layout: post
 title:  "Optimizing for Physical Simulation"
 date:   2018-03-22 21:21:53 +00:00
-image: /images/physics.gif
+image: /images/sea-ice.gif
 categories: CMU
 course: "16-745: Dynamic Optimization"
 author: "Leo Keselman"
