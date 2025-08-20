@@ -6,8 +6,8 @@ image: /images/autism.png
 categories: UofT
 course: "STA437: Methods for Multivariate Data"
 author: "Amy Mann"
-code: https://github.com/am-mann/brain-connectivity
 authors: "<strong>Amy Mann</strong>, Seemal Sipra"
+code: https://github.com/am-mann/brain-connectivity
 paper: /pdfs/sta437-autism.pdf
 ---
 We examined brain connectivity patterns in 47 individuals with autism. The dataset contains brain activity recordings from 47 individuals who participated in a study at Yale University. The data come from functional MRI (fMRI) scans, which measure brain activity over time. Each subject has a matrix (196 × 110) representing their brain activity.

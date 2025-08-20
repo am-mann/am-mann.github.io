@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Temperature dependent model of malaria transmission"
-date:   2019-05-29 22:21:59 +00:00
+date:   2025-05-29 22:21:59 +00:00
 image: /images/crv19.png
 categories: research
 author: "Amy Mann"
 authors: "<strong>Amy Mann</strong>, Qing Han, Sarafa, Jude Kong"
 ---
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+Temperature dependent modelling of malaria transmission

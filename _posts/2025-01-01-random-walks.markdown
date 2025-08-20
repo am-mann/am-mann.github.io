@@ -5,7 +5,7 @@ date:   2025-01-01 22:21:59 +00:00
 image: /images/pineapple-graph.png
 categories: research
 author: "Amy Mann"
-authors: "<a href='https://sites.google.com/view/breenj'>Jane Breen</a>, <a href='https://sites.google.com/view/kswim'>Sooyeong Kim</a>, Alexander Fung, <strong>Amy Mann</strong>, <a href='https://www.linkedin.com/in/andrei-alexandru-parfeni/'>Andrei Parfeni</a>, <a href='https://www.linkedin.com/in/giovanni-tedesco-77942a1a4/?originalSubdomain=ca'>Giovanni Tedesco</a>"
+authors: "<a href='https://sites.google.com/view/breenj'>Jane Breen</a>, <a href='https://sites.google.com/view/kswim'>Sooyeong Kim</a>, Alexander Low Fung, <strong>Amy Mann</strong>, <a href='https://www.linkedin.com/in/andrei-alexandru-parfeni/'>Andrei Parfeni</a>, <a href='https://www.linkedin.com/in/giovanni-tedesco-77942a1a4/?originalSubdomain=ca'>Giovanni Tedesco</a>"
 venue: "Linear Algebra and Its Applications"
 paper: https://doi.org/10.1016/j.laa.2024.12.022
 slides: /pdfs/fields_slides.pdf
