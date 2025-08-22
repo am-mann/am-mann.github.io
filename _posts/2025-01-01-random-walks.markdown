@@ -2,7 +2,7 @@
 layout: post
 title:  "Threshold graphs, Kemeny's constant, and related random walk parameters"
 date:   2025-01-01 22:21:59 +00:00
-image: /images/pineapple2.png
+image: /images/pineapple-graph.png
 categories: research
 author: "Amy Mann"
 authors: "<a href='https://sites.google.com/view/breenj'>Jane Breen</a>, <a href='https://sites.google.com/view/kswim'>Sooyeong Kim</a>, Alexander Low Fung, <strong>Amy Mann</strong>, <a href='https://www.linkedin.com/in/andrei-alexandru-parfeni/'>Andrei Parfeni</a>, <a href='https://www.linkedin.com/in/giovanni-tedesco-77942a1a4/?originalSubdomain=ca'>Giovanni Tedesco</a>"
