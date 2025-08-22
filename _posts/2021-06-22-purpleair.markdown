@@ -7,6 +7,7 @@ categories: research
 author: "Amy Mann"
 venue: Univeristy of Toronto Undegraduate Physics Research Symposium
 website: https://www.atmosp.physics.utoronto.ca/GTA-Emissions/About/purpleair/
+poster: /pds/purpleair-poster.pdf
 ---
 Calibrated and deployed low-cost emissions sensors in the GTA under the supervision of [Debra Wunch](https://wunch-group.physics.utoronto.ca) with [Stephanie Gu](https://www.physics.utoronto.ca/members/gu-stephanie/). 
 Received the Summer Undegraduate Research Fellowship. 

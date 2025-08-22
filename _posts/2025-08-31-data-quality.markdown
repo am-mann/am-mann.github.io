@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assessing the quality of US mortality data"
+title:  "US mortality data quality index"
 date:   2025-08-21 22:21:59 +00:00
 image: /images/fuzzy22.png
 categories: research
