@@ -10,4 +10,4 @@ authors: "<strong>Amy Mann</strong>, Seemal Sipra"
 code: https://github.com/am-mann/brain-connectivity
 paper: /pdfs/crowdfunding.pdf
 ---
- This paper is adapted from an analysis of the determinants of crowdfunding success of start-ups on Kickstarter I did with Ryan Junejo for a statistics course. I rewrote the introduction and conclusion to provide more context for the project and I condensed the methods and results sections for brevity.
+ This paper is adapted from an analysis of the determinants of crowdfunding success of start-ups on Kickstarter I did with [Ryan Junejo](https://www.linkedin.com/in/ryanjunejo/?originalSubdomain=ca) for a statistics course. I rewrote the introduction and conclusion to provide more context for the project and I condensed the methods and results sections for brevity.
