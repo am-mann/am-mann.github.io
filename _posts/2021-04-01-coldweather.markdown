@@ -10,5 +10,4 @@ venue: Atmosphere Ocean
 paper: https://www.tandfonline.com/doi/full/10.1080/07055900.2021.1915238#d1e208
 
 ---
-Calibrated and deployed low-cost emissions sensors in the GTA under the supervision of [Debra Wunch](https://wunch-group.physics.utoronto.ca) with [Stephanie Gu](https://www.physics.utoronto.ca/members/gu-stephanie/). 
-Received the Summer Undegraduate Research Fellowship. 
+Looked at the decline of very cold days in the Arctic and its local effects
