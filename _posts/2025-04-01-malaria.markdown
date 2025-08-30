@@ -2,7 +2,7 @@
 layout: post
 title:  "Temperature dependent model of malaria transmission"
 date:   2025-05-29 22:21:59 +00:00
-image: /images/malaria.png
+image: /images/malaria2.png
 categories: research
 code: https://github.com/am-mann/malaria-temp
 author: "Amy Mann"
