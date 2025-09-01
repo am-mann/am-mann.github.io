@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Modified Gaussian Plume Model for Mobile in situ Greenhouse Gas Measurements"
-date:   2022-06-01 21:21:53 +00:00
+date:   2023-01-01 21:21:53 +00:00
 image: /images/emissions.png
 categories: research
 author: "Amy Mann"
