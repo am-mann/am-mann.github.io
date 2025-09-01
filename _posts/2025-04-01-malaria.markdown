@@ -6,7 +6,7 @@ image: /images/malaria2.png
 categories: research
 code: https://github.com/am-mann/malaria-temp
 author: "Amy Mann"
-authors: "<strong>Amy Mann</strong>, Qing Han, Sarafa, Jude Kong"
+authors: "<strong>Amy Mann</strong>, Qing Han, Sarafa Iyaniwura, Jude Kong"
 ---
 
 Created a temperature dependent model of malaria transmission
