@@ -10,4 +10,4 @@ venue: Atmosphere Ocean
 paper: https://www.tandfonline.com/doi/full/10.1080/07055900.2021.1915238#d1e208
 
 ---
-Looked at the decline of very cold days in the Arctic and its local effects
+Looked at the decline of cold days in the Arctic and its local effects
