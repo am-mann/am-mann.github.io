@@ -8,4 +8,4 @@ author: "Amy Mann"
 authors: "<strong>Amy Mann</strong>, Monica Alexander, Mathew Kiang"
 code: https://github.com/am-mann/data-quality
 ---
-Created a composite data quality index to assessing the geographic and temporal trends in United States mortality data from 1999-2022. 
+Developed methods to assess the quality of mortality data at a sub-national level in high income settings. Applied the data quality indices to examine geographic trends in United States mortality data from 1999-2022. 
