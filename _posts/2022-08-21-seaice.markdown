@@ -10,4 +10,4 @@ venue: "Laidlaw Research Conference"
 poster: /pdfs/sea-ice-poster.pdf
 code: https://github.com/am-mann/sea-ice
 ---
-Simulated back trajectories and forward trajectories of sea ice in the Last Ice Area using satellite velocity data with a particular interest in understanding the cause of the anomolous sea ice reversal in February 2018. I received funding from the Laidlaw Research Fellowship. In process of turning into paper. 
+Simulated back trajectories and forward trajectories of sea ice in the Last Ice Area using satellite velocity data with a particular interest in understanding the cause of the anomalous sea ice reversal in February 2018. I received funding from the Laidlaw Research Fellowship. In process of turning into paper. 
